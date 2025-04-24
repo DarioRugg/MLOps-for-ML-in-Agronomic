@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+jupyter
+keras==2.3.1
+seaborn
+tables
+
+clearml
+clearml-agent

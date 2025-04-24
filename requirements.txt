@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+jupyter
+seaborn
+tables
+
+clearml
+clearml-agent
