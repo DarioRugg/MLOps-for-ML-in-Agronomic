@@ -1,6 +1,6 @@
-# Wheat Yield Prediction with Explainability: MLOps Integration Showcase
+# Wheat Plant Height Prediction with Explainability: MLOps Integration Showcase
 
-This project demonstrates a full MLOps pipeline for a wheat yield prediction model using the [ClearML](https://clear.ml) framework. The goal is to showcase how ClearML can be used for dataset versioning, experiment tracking, hyperparameter optimization (HPO), and model deployment — all integrated within a reproducible, containerized environment.
+This project demonstrates a full MLOps pipeline for a wheat plant height prediction model using the [ClearML](https://clear.ml) framework. The goal is to showcase how ClearML can be used for dataset versioning, experiment tracking, hyperparameter optimization (HPO), and model deployment — all integrated within a reproducible, containerized environment.
 
 ---
 
